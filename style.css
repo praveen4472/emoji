@@ -105,21 +105,7 @@
   
 
 }
-.cavity{
-    height: 8px;
-    width: 4px;
-    background-color: rgb(8, 8, 8);
-    margin-left: 30px;
-}
-.maru{
-    width: 3px;
-    height: 3px;
-    background-color: black;
-    border-radius: 100%;
-    position: absolute;
-    left: 90px;
-    top: 60px;
-}
+
 .w{
     height: 10px;
     width: 10px;
